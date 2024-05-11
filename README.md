@@ -11,17 +11,17 @@
 
 - 🌱 I’m currently learning **reddis**
 
-- 👨‍💻 All of my projects are available at [focusmentorv.web.app](focusmentorv.web.app)
+- 👨‍💻 All of my projects are available at [focusmentorv-id.web.app](focusmentorv-id.web.app)
 
-- 📝 I regularly write articles on [focusmentorv.web.app/blog](focusmentorv.web.app/blog)
+- 📝 I regularly write articles on [focusmentorv-id.web.app/blog](focusmentorv-id.web.app/blog)
 
 - 💬 Ask me about **react, nextjs, mongodb, gcp, aws.**
 
-- 📫 How to reach me **focusmentorv@gmail.com**
+- 📫 How to reach me **focusmentorv-id@gmail.com**
 
-- 📄 Know about my experiences [focusmentorv.web.app/resume](focusmentorv.web.app/resume)
+- 📄 Know about my experiences [focusmentorv-id.web.app/resume](focusmentorv-id.web.app/resume)
 
-- ⚡ Fun fact **learning donr stop!**
+- ⚡ Fun fact **learning dont stop!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
