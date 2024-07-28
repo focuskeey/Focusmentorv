@@ -1,4 +1,4 @@
-.home-container {
+.card-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,10 +9,12 @@
 
 
 .container {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 40px;
+  max-width: 900px;
+  height: calc(100dvh - 140px);
+  margin: 40px 60px;
+  padding: 30px 40px;
   background-color: #0a0808;
+  color: #ffffff;
   border: 2px solid #ffffff;
   border-radius: 35px;
 }
@@ -27,20 +29,53 @@ header {
   width: 50px;
 }
 
+.animated-text{
+  
+  font-size: 20px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  width: fit-content;
+  text-transform: uppercase;
+  animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+.logo-name{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
 nav ul {
   list-style: none;
   display: flex;
   gap: 15px;
 }
 
-nav ul li a {
+nav ul li {
   text-decoration: none;
   color: #ffffff;
   font-size: 1.5em;
+  transition: transform 0.3s ease-in-out;
+}
+
+nav ul li:hover {
+  transform: scale(1.5);
 }
 
 main {
   margin-top: 20px;
+  display: flex;
 }
 
 .welcome-section {
