@@ -1,12 +1,11 @@
- 
+import AppRouter from "./components/AppRouter";
 import './App.css';
+import './styles/General.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        focus page
-      </header>
+      <AppRouter /> 
     </div>
   );
 }
